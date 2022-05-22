@@ -51,7 +51,7 @@ The two python scripts used includes the following:
 
 
 
-**CONCLUSION **
+**Conclusion**
 In this day and age humanity needs to work on using new teaching techniques and the internet to promote learning in children while also keeping them away from violent and inappropriate content. These young, impressionable minds should be exposed to various cultures, languages, science and many more so that they can take the world another step further to peace and harmony amongst all. We would encourage other computer scientists and programmers to create more software’s to safeguard the mental and social growth of the youth. We hope to inspire other to take this project further and rid the internet of inappropriate content in the most efficient manners possible.
 
 
